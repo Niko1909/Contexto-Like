@@ -1,5 +1,7 @@
 # Contexto-Like
-Inspired by [Contexto](https://contexto.me/), given any word, the most similar words are displayed in a list and ranked, using [GloVe](https://github.com/stanfordnlp/GloVe?tab=readme-ov-file) embeddings. In particular, the Wikipedia 2014 + Gigaword 5 (6B tokens, 400K vocab) was used with the 50d vectors. See the complete file in the Google Colab link [here](https://colab.research.google.com/drive/1xd1DMDiwihfk0RHhVVkYqE87xIPcE1Aw?usp=sharing). 
+Inspired by [Contexto](https://contexto.me/), given any word, the most similar words are displayed in a list and ranked, using [GloVe](https://nlp.stanford.edu/projects/glove/) embeddings. In particular, the Wikipedia 2014 + Gigaword 5 (6B tokens, 400K vocab) was used with the 50d vectors. 
+
+Download the embeddings on their [GitHub](https://github.com/stanfordnlp/GloVe?tab=readme-ov-file). See the complete Python notebook file in the Google Colab [link](https://colab.research.google.com/drive/1xd1DMDiwihfk0RHhVVkYqE87xIPcE1Aw?usp=sharing). 
 
 Example:
 

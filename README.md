@@ -19,7 +19,7 @@ Example:
 
 ![image](https://github.com/user-attachments/assets/4fcd418e-1e05-451b-956d-f6063b3d1d21) ![image](https://github.com/user-attachments/assets/e1bd8dd2-a857-4903-be7b-f79ba4c080d1) ![image](https://github.com/user-attachments/assets/f0ec8cae-cfe9-4408-9c21-6ee74e126856)
 
-As seen above, Euclidean distance and cosine similarity give very similar results in comparison to dot product, but all of them look reasonable. Additionally, we can observe that to calculate similarity over the whole vocabulary, it took Euclidean distance 3 seconds, cosine similarity 2 seconds, and dot product less than 1 second. 
+As seen above, Euclidean distance and cosine similarity give very similar results in contrast with dot product, but all of them look reasonable. Additionally, we can observe that to calculate similarity over the whole vocabulary, it took Euclidean distance 3 seconds, cosine similarity 2 seconds, and dot product less than 1 second. 
 
 ## Libraries used:
 - [NumPy](https://numpy.org/) for storing the embeddings and calculating dot product and cosine similarity
